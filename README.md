@@ -1,1 +1,1 @@
-# CSS-Mini-Project-StudySync-main
+# CSS-Mini-Project
